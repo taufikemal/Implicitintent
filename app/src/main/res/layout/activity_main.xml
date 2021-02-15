@@ -25,7 +25,7 @@
         android:id="@+id/location_edittext"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Yogyakarta"
+        android:text="Gedung DPR/MPR RI"
         tools:ignore="Autofill,LabelFor,TextFields
         tools:layout_editor_absoluteX=" />
 
